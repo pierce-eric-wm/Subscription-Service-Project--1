@@ -1,0 +1,182 @@
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+html{
+    background-image: url("Images/background.jpg");
+    color:white;
+    font-family: 'Crimson Text', serif;
+
+}
+#nav_bar{
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+    opacity: 0.75;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    height:100px;
+}
+#nav_bar, #site_name{
+    opacity: 1;
+}
+
+#site_name{
+    text-align: left;
+    color: white;
+    margin: 25px;
+    font-size: 55px;
+    width:50%;
+    height: 100px;
+    float: left;
+    line-height: 40px;
+}
+ .right , .a{
+    text-decoration: none;
+    color:white;
+    height:100%;
+    float:right;
+     line-height: 40px;
+
+}
+.right{
+    height: 100%;
+    font-size:40px;
+    color:white;
+    text-align: right;
+    margin:20px;
+    margin-left: auto;
+    vertical-align: middle;
+    padding-top: 10px;
+    line-height: 40px;
+}
+
+#form_submit {
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    text-align: center;
+    padding:25px;
+    margin: 25px;
+}
+#form_submit, label{
+    color: white;
+}
+p {
+color: white;
+}
+#h2o {
+    color:white;
+    text-align:center;
+    font-size: 100px;
+    text-decoration: underline;
+   width:100%;
+    height:115px;
+    line-height:0px;
+    padding:0px;
+
+}
+#signin{
+    text-align:center;
+    font-size:25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#buttonz {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding:25px;
+}
+#si_su{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#SignInto{
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+     margin:25px;
+}
+
+#add_div{
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+}
+
+
+#add_div, label, input{
+    text-align: left;
+    margin:20px;
+    font-size: 25px;
+}
+
+#home_sum{
+    font-size: 25px;
+    font-style: normal;
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+    text-align: center;
+    margin: 25px;
+    padding:25px;
+}
+#underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.info{
+    font-size: 25px;
+    border: solid;
+    border-width: 10px;
+    border-color: #312259 ;
+    background-color:rgba(0,0,0,0.5);
+    color:white;
+    width:91.5%;                                                                                                                                                                                                                 ;                                                                                           position:fixed;
+    align-items: center;
+    padding:25px;
+    min-height: 150px;
+    margin:25px;
+}
+.fl{
+    float: left;
+}
+.image {
+    width:200px;
+    height:200px;
+    text-align: right;
+    margin-left:auto;
+    float:right;
+    border: solid;
+    border-width: 5px;
+    border-color: #3FE259;
+}
+#admin_layout{
+    border: solid;
+    border-color: #312259;
+    border-width: 5px;
+    color:white;
+    background-color:rgba(0,0,0,0.5);
+    text-align:center;
+    margin-right: auto;
+    margin-left:auto;
+    width:50%;
+    font-size: 25px;
+    float:center;
+}
+.error{
+    color:red;
+    font-size: 50px;
+}
+#image_4each {
+    margin-right: auto;
+    margin-left: auto;
+
+}

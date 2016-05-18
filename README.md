@@ -1,6 +1,9 @@
 # Subscription-Service-Project-
+<<<<<<< HEAD
+=======
 This project is slated for students as a practical assessment for PHP &amp; MySQL. 
 
+>>>>>>> a783aabf55ab8b16b9d81449a2d43abcc3b5aa20
 
 **PHP MySQL Functional Assessment** 
 
